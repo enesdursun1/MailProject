@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMailProject", "SendMailProject\SendMailProject.csproj", "{D2EEC665-44AB-428C-83B4-29AEF7C5D1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connectionsss", "Connectionsss\Connectionsss.csproj", "{D8733BC6-C01E-4B81-A17D-C0303B1D9119}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setupp", "Setupp\Setupp.vdproj", "{3584ACA3-35CD-4202-AFC5-8C0A4F9C4571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2EEC665-44AB-428C-83B4-29AEF7C5D1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EEC665-44AB-428C-83B4-29AEF7C5D1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EEC665-44AB-428C-83B4-29AEF7C5D1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EEC665-44AB-428C-83B4-29AEF7C5D1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8733BC6-C01E-4B81-A17D-C0303B1D9119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8733BC6-C01E-4B81-A17D-C0303B1D9119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8733BC6-C01E-4B81-A17D-C0303B1D9119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8733BC6-C01E-4B81-A17D-C0303B1D9119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3584ACA3-35CD-4202-AFC5-8C0A4F9C4571}.Debug|Any CPU.ActiveCfg = Debug
+		{3584ACA3-35CD-4202-AFC5-8C0A4F9C4571}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4688EBAD-11B6-4BB9-AC20-744AE78C7F23}
+	EndGlobalSection
+EndGlobal
